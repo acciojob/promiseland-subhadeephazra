@@ -1,0 +1,4 @@
+{
+  "testRepo": "promiseland-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
